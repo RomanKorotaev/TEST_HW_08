@@ -1,0 +1,20 @@
+@import './utils/variables';
+@import './utils/visually-hidden';
+
+@import './base/common';
+@import './base/section';
+
+@import './components/container';
+@import './components/section-title';
+@import './components/logo';
+@import './components/social-list';
+@import './components/button';
+
+@import './layout/header';
+@import './layout/hero';
+@import './layout/advantages-section';
+@import './layout/skills-section';
+@import './layout/team-section';
+@import './layout/customers-section';
+@import './layout/footer';
+@import './layout/gallery';
